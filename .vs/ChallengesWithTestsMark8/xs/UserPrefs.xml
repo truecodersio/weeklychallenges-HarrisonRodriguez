@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5D8F9EC8-A726-4E18-B4B5-C64B4DCDE247}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChallengesWithTestsMark8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChallengesWithTestsMark8.Tests/ChallengesSet01Tests.cs">
+    <Files>
+      <File FileName="ChallengesWithTestsMark8/ChallengesSet01.cs" Line="1" Column="14" />
+      <File FileName="ChallengesWithTestsMark8.Tests/ChallengesSet01Tests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChallengesWithTestsMark8" expanded="True">
+            <Node name="ChallengesWithTestsMark8" expanded="True" />
+            <Node name="ChallengesWithTestsMark8.Tests" expanded="True">
+              <Node name="ChallengesSet01Tests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
